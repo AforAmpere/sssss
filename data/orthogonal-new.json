@@ -6,5 +6,7 @@
 {"population":87,"velocity":"31c/31"
 ,"RLE":"x = 70, y = 161, rule = B2ak3cir4iyz/S\n23b3ob2o2$23bobob2o2$24bobobo4$25bo2bo2$26b2o3$28b4o2$26bo2bobo$26bobo10$27bobo2$27b3o8$25bo2$2o23b2o2$o6$9bo$7bobo3$25bo2$25b2o4$24bo2$24b2o4$29bo2$29b2o4$28bobobobo$28bobobobo14$9b2o2$9bo13$25bo$61bobobo$25b2o32bobobobo2b2o2$69bo10$25bo2$25b2o15$42bo$38bobo$38bo3bo19$16b2o2$16bo4$33b2o2$34bo2$26bo!"},
 {"population":96,"velocity":"50c/60"
-,"RLE":"x = 38, y = 43, rule = B2ack3ky4jqy5aikry/S2ak3ajqy4-ajn5acejn6-ck7e8\n9b3ob3o$9b2o3b2o$11bobo$8b3obob3o$9bo5bo$8bo7bo6$18b2o2$17bo2bo9$26b3ob3o$26b2o3b2o$28bobo$25b3obob3o$26bo5bo$25bo7bo8$b3ob3o$b2o3b2o$3bobo24b3ob3o$3obob3o21b2o3b2o$bo5bo24bobo$o7bo20b3obob3o$30bo5bo$29bo7bo!"}
+,"RLE":"x = 38, y = 43, rule = B2ack3ky4jqy5aikry/S2ak3ajqy4-ajn5acejn6-ck7e8\n9b3ob3o$9b2o3b2o$11bobo$8b3obob3o$9bo5bo$8bo7bo6$18b2o2$17bo2bo9$26b3ob3o$26b2o3b2o$28bobo$25b3obob3o$26bo5bo$25bo7bo8$b3ob3o$b2o3b2o$3bobo24b3ob3o$3obob3o21b2o3b2o$bo5bo24bobo$o7bo20b3obob3o$30bo5bo$29bo7bo!"},
+{"population":229,"velocity":"54c/54"
+,"RLE":"x = 37, y = 94, rule = B2ac3i4y5er/S\n16b5o2$15bo2bobo2$16bo2bo4$15bo3bo2$15bo3bo6$15bo2$15bo8$2b2o6b2o13b2o6b2o$6b2o21b2o$2b2o14bobo12b2o$6b2o21b2o$6b2o21b2o$5bo25bo$5bo2bo2bo13bo2bo2bo$10bo15bo$4bo3bo9bobo7bo3bo$2bo31bo$16bo5bo2$18bobo2$2b2o6b2o13b2o6b2o$6b2o21b2o$9bo2bo11bo2bo2$6b2o2b2o13b2o2b2o$6b2obo17bob2o$2bo4bobo17bobo4bo$3bo29bo$3bo29bo$5bo25bo5$2o6b2o7bo9b2o6b2o$4b2o25b2o$2o15bo17b2o$4b2o25b2o$4b2o25b2o$3bo29bo$3bo2bo2bo17bo2bo2bo$8bo19bo$2bo3bo12bo10bo3bo$o35bo$19bo6$4b2o6b2o9b2o6b2o$8b2o17b2o$4b2o25b2o$8b2o17b2o$8b2o17b2o$7bo21bo$7bo2bo2bo9bo2bo2bo$12bo11bo$6bo3bo15bo3bo$4bo27bo5$4b2o6b2o9b2o6b2o$8b2o17b2o$4b2o25b2o$8b2o17b2o$8b2o17b2o$7bo21bo$7bo2bo12bo2bo2bo$12bo11bo$6bo3bo15bo3bo$4bo27bo!"}
 ]
