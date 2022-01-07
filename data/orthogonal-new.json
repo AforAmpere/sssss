@@ -14,5 +14,7 @@
 {"population":317,"velocity":"39c/39"
 ,"RLE":"x = 39, y = 243, rule = B2ac3nr5r/S\n11b2o2b2o5b2o2b2o2$10b3o2bo7bo2b3o2$14b2o7b2o2$16bo2bo2bo2$14bo4bo4bo2$11bo4b2o3b2o4bo2$11bo4b2o3b2o4bo6$11b2o13b2o2$10bo2bo11bo2bo2$11b2o13b2o6$9bobo15bobo2$18bobo6$9bobo6bobo6bobo4$7bo23bo2$5bo2b2o19b2o2bo2$7b3o19b3o2$14bobobobobobo2$10bo17bo2$10bo17bo6$18bobo2$12bobo9bobo2$2o9bob2o9b2obo9b2o2$2o10b2o2bo5bo2b2o10b2o2$17b2ob2o2$obo7bo5b2o3b2o5bo7bobo2$obo7bo17bo7bobo2$12bo13bo2$12bo13bo2$10bo4bo7bo4bo2$10bo6bobobo6bo2$15bo3bo3bo2$b2o33b2o2$17bobobo2$15bo7bo2$b3o11bo7bo11b3o2$9bobo5bobobo5bobo6$19bo2$19bo4$10bo17bo2$10bo17bo2$4b2o27b2o2$3bo2bo25bo2bo2$4b2o27b2o2$5bo8bo9bo8bo2$3bo3bo6bo9bo6bo3bo2$5bo3bobo6bobo6bobo3bo4$4b2o27b2o2$4b2o12bobo12b2o2$18bobo2$4bobo11bobo11bobo2$4bobo11bobo11bobo2$18bobo4$4b2o27b2o2$18bobo4$4b3o25b3o12$13bobo7bobo2$19bo2$19bo4$19bo2$19bo2$15bobo3bobo2$15bobo3bobo2$19bo2$8b2o9bo9b2o4$19bo2$8b3o8bo8b3o18$18bobo7b2o2$28b2o4$27bobo2$16bobobobobo2bobo2$14bo11bo2$16bobobobobo8$18bobo3b2o6$23b3o12$19bo2$19bo4b2o2$23bo2bo2$24b2o2$24bo2$22bo3bo2$24bo!"},
 {"population":35,"velocity":"44c/44"
-,"RLE":"x = 13, y = 92, rule = B2ac4cintyz/S\n7b2o2b2o2$8b4o2$6b3obo2$4b3ob2o2$3b2o2b2obo2$5bo2$5bo8$5bo2$5b2o5$b2o2$o9$10bobo51$8b2o2$10bo!"}
+,"RLE":"x = 13, y = 92, rule = B2ac4cintyz/S\n7b2o2b2o2$8b4o2$6b3obo2$4b3ob2o2$3b2o2b2obo2$5bo2$5bo8$5bo2$5b2o5$b2o2$o9$10bobo51$8b2o2$10bo!"},
+{"population":32,"velocity":"51c/51"
+,"RLE":"x = 19, y = 39, rule = B2ace4actyz5r6ik/S2a4n\n9b2o$8bo2bo$6b8o2$7b3o2bo2$8bo$6b3ob2o2$6bo5bo6$16b2o$18bo19$8bo2$b2o5bo$o!"}
 ]
