@@ -18,5 +18,7 @@
 {"population":32,"velocity":"51c/51"
 ,"RLE":"x = 19, y = 39, rule = B2ace4actyz5r6ik/S2a4n\n9b2o$8bo2bo$6b8o2$7b3o2bo2$8bo$6b3ob2o2$6bo5bo6$16b2o$18bo19$8bo2$b2o5bo$o!"},
 {"population":41,"velocity":"47c/47"
-,"RLE":"x = 35, y = 96, rule = B2ace3aci4-cjnry5cjnqy6-ik7e8/S2c3aejqy4eikqrwz5-ejky678\n11b2o9b2o$8b2o3bo7bo3b2o$7bo2b2ob3o3b3ob2o2bo2$17bo2$13bo7bo2$13bo2bobo2bo2$13bo2bobo2bo2$12b2o7b2o4$13bo2bobo2bo2$13bo7bo4$13bo7bo2$11bobo2bobo2bobo2$11bo11bo8$11bobo3bo3bobo2$17bo4$10bo13bo2$10bo2bobo3bobo2bo2$4o12bobo12b4o$2bobo25bobo$bobobo23bobobo$3bo27bo7$17bo2$3b4o10bo10b4o$5bobo19bobo$4bobobo17bobobo$6bo21bo3$12bobo5bobo2$12bo9bo4$5b4o17b4o$7bobo15bobo$6bobobo13bobobo$8bo17bo9$7b4o13b4o$9bobo11bobo$8bobobo3bobo3bobobo$10bo13bo7$17bo2$17bo3b4o$20bobo$19bobobo$21bo!"}
+,"RLE":"x = 35, y = 96, rule = B2ace3aci4-cjnry5cjnqy6-ik7e8/S2c3aejqy4eikqrwz5-ejky678\n11b2o9b2o$8b2o3bo7bo3b2o$7bo2b2ob3o3b3ob2o2bo2$17bo2$13bo7bo2$13bo2bobo2bo2$13bo2bobo2bo2$12b2o7b2o4$13bo2bobo2bo2$13bo7bo4$13bo7bo2$11bobo2bobo2bobo2$11bo11bo8$11bobo3bo3bobo2$17bo4$10bo13bo2$10bo2bobo3bobo2bo2$4o12bobo12b4o$2bobo25bobo$bobobo23bobobo$3bo27bo7$17bo2$3b4o10bo10b4o$5bobo19bobo$4bobobo17bobobo$6bo21bo3$12bobo5bobo2$12bo9bo4$5b4o17b4o$7bobo15bobo$6bobobo13bobobo$8bo17bo9$7b4o13b4o$9bobo11bobo$8bobobo3bobo3bobobo$10bo13bo7$17bo2$17bo3b4o$20bobo$19bobobo$21bo!"},
+{"population":41,"velocity":"37c/37"
+,"RLE":"x = 18, y = 41, rule = B2ace4-ekrw5-eir6-ae/S3-ceij4aejqtz5eiknq6-en78\n6b2o$8bo$7bobo2b2o$4b2ob3obo2bo2$4b2o2$8bo12$15b2o$14bo2bo$5bobo7bo$15b2o$13b3o$14bo11$b2o$o2bo$2bo$b2o$2b3o$3bo!"}
 ]
