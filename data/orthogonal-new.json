@@ -1,0 +1,30 @@
+[
+{"population":32,"velocity":"40c/48"
+,"RLE":"x = 25, y = 32, rule = B2ack3e4knqrty5aijnq/S2acn3acjkq4eijtwyz5aeijy6aik7e\n5bo3bo$5b2ob2o$4bo2bo2bo$5bo3bo3$o6bo6bo3$6b2o2$5bo2bo14$15bo3bo$15b2ob2o$14bo2bo2bo$15bo3bo3$10bo6bo6bo!"},
+{"population":34,"velocity":"60c/72"
+,"RLE":"x = 34, y = 29, rule = B2ack3e4krty5aijq/S2akn3aij4eknqrtw5-ak6-ae8\n4b2obob2o12b2obob2o$6b3o16b3o4$o13bo4bo13bo3$15b2o2$14bo2bo13$4b2obob2o$6b3o4$o13bo!"},
+{"population":25,"velocity":"31c/31"
+,"RLE":"x = 8, y = 28, rule = B2an3ac4intyz6i/S4a\n5b2o$2o2b4o2$b4obo2$b2o2$bobo8$2b2o8$2b2o2$3o2$bo!"},
+{"population":96,"velocity":"50c/60"
+,"RLE":"x = 38, y = 43, rule = B2ack3ky4jqy5aikry/S2ak3ajqy4-ajn5acejn6-ck7e8\n9b3ob3o$9b2o3b2o$11bobo$8b3obob3o$9bo5bo$8bo7bo6$18b2o2$17bo2bo9$26b3ob3o$26b2o3b2o$28bobo$25b3obob3o$26bo5bo$25bo7bo8$b3ob3o$b2o3b2o$3bobo24b3ob3o$3obob3o21b2o3b2o$bo5bo24bobo$o7bo20b3obob3o$30bo5bo$29bo7bo!"},
+{"population":229,"velocity":"54c/54"
+,"RLE":"x = 37, y = 94, rule = B2ac3i4y5er/S\n16b5o2$15bo2bobo2$16bo2bo4$15bo3bo2$15bo3bo6$15bo2$15bo8$2b2o6b2o13b2o6b2o$6b2o21b2o$2b2o14bobo12b2o$6b2o21b2o$6b2o21b2o$5bo25bo$5bo2bo2bo13bo2bo2bo$10bo15bo$4bo3bo9bobo7bo3bo$2bo31bo$16bo5bo2$18bobo2$2b2o6b2o13b2o6b2o$6b2o21b2o$9bo2bo11bo2bo2$6b2o2b2o13b2o2b2o$6b2obo17bob2o$2bo4bobo17bobo4bo$3bo29bo$3bo29bo$5bo25bo5$2o6b2o7bo9b2o6b2o$4b2o25b2o$2o15bo17b2o$4b2o25b2o$4b2o25b2o$3bo29bo$3bo2bo2bo17bo2bo2bo$8bo19bo$2bo3bo12bo10bo3bo$o35bo$19bo6$4b2o6b2o9b2o6b2o$8b2o17b2o$4b2o25b2o$8b2o17b2o$8b2o17b2o$7bo21bo$7bo2bo2bo9bo2bo2bo$12bo11bo$6bo3bo15bo3bo$4bo27bo5$4b2o6b2o9b2o6b2o$8b2o17b2o$4b2o25b2o$8b2o17b2o$8b2o17b2o$7bo21bo$7bo2bo12bo2bo2bo$12bo11bo$6bo3bo15bo3bo$4bo27bo!"},
+{"population":52,"velocity":"60c/60"
+,"RLE":"x = 23, y = 44, rule = B2ac3a4anty6i/S4a\n11b2o$9b5o2$8bo2b2obo2$9bo13$2b2o15b2o$5o13b5o2$o3bo5bobo5bo3bo19$2b2o15b2o$5o7bobo3b5o2$o3bo13bo3bo!"},
+{"population":317,"velocity":"39c/39"
+,"RLE":"x = 39, y = 243, rule = B2ac3nr5r/S\n11b2o2b2o5b2o2b2o2$10b3o2bo7bo2b3o2$14b2o7b2o2$16bo2bo2bo2$14bo4bo4bo2$11bo4b2o3b2o4bo2$11bo4b2o3b2o4bo6$11b2o13b2o2$10bo2bo11bo2bo2$11b2o13b2o6$9bobo15bobo2$18bobo6$9bobo6bobo6bobo4$7bo23bo2$5bo2b2o19b2o2bo2$7b3o19b3o2$14bobobobobobo2$10bo17bo2$10bo17bo6$18bobo2$12bobo9bobo2$2o9bob2o9b2obo9b2o2$2o10b2o2bo5bo2b2o10b2o2$17b2ob2o2$obo7bo5b2o3b2o5bo7bobo2$obo7bo17bo7bobo2$12bo13bo2$12bo13bo2$10bo4bo7bo4bo2$10bo6bobobo6bo2$15bo3bo3bo2$b2o33b2o2$17bobobo2$15bo7bo2$b3o11bo7bo11b3o2$9bobo5bobobo5bobo6$19bo2$19bo4$10bo17bo2$10bo17bo2$4b2o27b2o2$3bo2bo25bo2bo2$4b2o27b2o2$5bo8bo9bo8bo2$3bo3bo6bo9bo6bo3bo2$5bo3bobo6bobo6bobo3bo4$4b2o27b2o2$4b2o12bobo12b2o2$18bobo2$4bobo11bobo11bobo2$4bobo11bobo11bobo2$18bobo4$4b2o27b2o2$18bobo4$4b3o25b3o12$13bobo7bobo2$19bo2$19bo4$19bo2$19bo2$15bobo3bobo2$15bobo3bobo2$19bo2$8b2o9bo9b2o4$19bo2$8b3o8bo8b3o18$18bobo7b2o2$28b2o4$27bobo2$16bobobobobo2bobo2$14bo11bo2$16bobobobobo8$18bobo3b2o6$23b3o12$19bo2$19bo4b2o2$23bo2bo2$24b2o2$24bo2$22bo3bo2$24bo!"},
+{"population":35,"velocity":"44c/44"
+,"RLE":"x = 13, y = 92, rule = B2ac4cintyz/S\n7b2o2b2o2$8b4o2$6b3obo2$4b3ob2o2$3b2o2b2obo2$5bo2$5bo8$5bo2$5b2o5$b2o2$o9$10bobo51$8b2o2$10bo!"},
+{"population":32,"velocity":"51c/51"
+,"RLE":"x = 19, y = 39, rule = B2ace4actyz5r6ik/S2a4n\n9b2o$8bo2bo$6b8o2$7b3o2bo2$8bo$6b3ob2o2$6bo5bo6$16b2o$18bo19$8bo2$b2o5bo$o!"},
+{"population":41,"velocity":"47c/47"
+,"RLE":"x = 35, y = 96, rule = B2ace3aci4-cjnry5cjnqy6-ik7e8/S2c3aejqy4eikqrwz5-ejky678\n11b2o9b2o$8b2o3bo7bo3b2o$7bo2b2ob3o3b3ob2o2bo2$17bo2$13bo7bo2$13bo2bobo2bo2$13bo2bobo2bo2$12b2o7b2o4$13bo2bobo2bo2$13bo7bo4$13bo7bo2$11bobo2bobo2bobo2$11bo11bo8$11bobo3bo3bobo2$17bo4$10bo13bo2$10bo2bobo3bobo2bo2$4o12bobo12b4o$2bobo25bobo$bobobo23bobobo$3bo27bo7$17bo2$3b4o10bo10b4o$5bobo19bobo$4bobobo17bobobo$6bo21bo3$12bobo5bobo2$12bo9bo4$5b4o17b4o$7bobo15bobo$6bobobo13bobobo$8bo17bo9$7b4o13b4o$9bobo11bobo$8bobobo3bobo3bobobo$10bo13bo7$17bo2$17bo3b4o$20bobo$19bobobo$21bo!"},
+{"population":41,"velocity":"37c/37"
+,"RLE":"x = 18, y = 41, rule = B2ace4-ekrw5-eir6-ae/S3-ceij4aejqtz5eiknq6-en78\n6b2o$8bo$7bobo2b2o$4b2ob3obo2bo2$4b2o2$8bo12$15b2o$14bo2bo$5bobo7bo$15b2o$13b3o$14bo11$b2o$o2bo$2bo$b2o$2b3o$3bo!"},
+{"population":111,"velocity":"41c/41"
+,"RLE":"x = 10, y = 120, rule = B2ae3cq4intyz6i/S\n6b2o2$2b2o3b3o2$3o5bo$7bobo$bo$obo2b4o2$b5obo2$5bo2$4b2o2$bo2bo4$4b2o12$2b2o2$2b3o2$4bo2$3b2o2$3b2o2$3b2o4$3b2o6$4b2o2$4b2o6$4b2o2$4bo2$4b3o2$3b2o2$3b2o2$3b2o2$3b2o2$3b2o2$3b2o2$3b2o2$3b2o2$3b2o2$3b2o2$3b2o2$3b2o4$4b2o2$4b2o2$4b2o2$4b2o2$4b2o2$4b2o2$4b2o2$4b2o2$4b2o2$4b2o2$4b2o2$4b2o2$4b2o2$2b3o2$3bo!"},
+{"population":47,"velocity":43c/43"
+,"RLE":"x = 16, y = 44, rule = B2acn3aejk4eijnqyz5akny6-i78/S2e3-aiky4-cnry5-nqr678\n2o$5b4o2b2o2$5b2o6bo2$8bo2$8bo2bo2$6b2o3bo6$6bo10$7bobo$14b2o$13b2o$14bo$14bo$13bobo$14bo$2o$b2o$bo$bo$obo$bo$11b2o$10b2o$11bo$11bo$10bobo$11bo!"},
+{"population":149,"velocity":"45c/45:
+,"RLE":"x = 39, y = 81, rule = B2ac3jn4ainz5ei6i/S2e5r\n2o21b2o$4b2o27b2o$5bob2ob2o15b2ob2obo$10bo17bo$7b2o21b2o$8bo21bo$9bo19bo$11b2o13b2o$11bo2b2o7b2o2bo$10b3obob2o3b2obob3o2$10b2o3b2o2bo2b2o3b2o4$9bobo2bo2bobobo2bo2bobo2$9bob2o13b2obo$b2o33b2o2$o37bo2$2bo33bo4$3b2o29b2o$18bobo$3bo31bo6$5b2o25b2o2$4bobo25bobo3$13bo5bo5bo$7b2o21b2o$13bo5bo5bo$9bo19bo2$7bo23bo$13bobo7bobo$9b2o17b2o2$9bobo15bobo3$16bobobobo3$10b2o15b2o2$11bo15bo6$11b2o13b2o2$12bo13bo4$23b2o2$23bo$19bo2$19bo3$21b2o2$20bo2$22bo!"},
+]
